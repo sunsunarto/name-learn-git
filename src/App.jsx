@@ -13,7 +13,7 @@ function App() {
     <>
      <div className="toggle">
       <button onClick={toggleName}>{visible? 'sembuikan' :'Tampilkan'}</button>
-      {visible && <p> Nama: Sunaryo</p>}
+      {visible && <p> Nama: Sunaryo sone</p>}
      </div>
     </>
   )
